@@ -3792,6 +3792,10 @@ input, select, textarea {
 				margin: 0 0 2rem 0;
 			}
 
+			#main > .post header.major > p {
+				font-size: 0.85rem;
+			}
+
 			#main > .post.featured {
 				text-align: center;
 			}
@@ -3822,7 +3826,7 @@ input, select, textarea {
 					}
 
 					#main > .post header.major > p {
-						font-size: 0.8rem;
+						font-size: 0.7rem;
 					}
 
 			}
