@@ -3831,7 +3831,7 @@ input, select, textarea {
 					#main > .post header.major > p {
 						font-style: normal;
 						font-size: 0.75rem;
-						line-height: 2;
+						line-height: 2.5;
 					}
 
 			}
@@ -3926,8 +3926,9 @@ input, select, textarea {
 				}
 
 				#main > .posts > article > p {
+					font-style: normal;
 					font-size: 0.75rem;
-					line-height: 2.5;
+					line-height: 2;
 					text-align: justify;
 				}
 
