@@ -3453,7 +3453,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 90vh;
+				min-height: 70vh;
 			}
 
 				#intro p br {
@@ -3474,7 +3474,7 @@ input, select, textarea {
 			}
 
 				#intro h1 {
-					font-size: 3.25rem;
+					font-size: 3rem;
 					line-height: 1.1;
 					margin-bottom: 1rem;
 				}
@@ -3745,13 +3745,13 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
-		@media screen and (max-width: 980px) {
+/* Main		@media screen and (max-width: 980px) {
 
 			#nav {
 				display: none;
 			}
 
-		}
+		}*/
 
 /* Main */
 
