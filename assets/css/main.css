@@ -3480,7 +3480,7 @@ input, select, textarea {
 				}
 
 				#intro p {
-					font-size: 0.7rem;
+					font-size: 0.75rem;
 					margin-top: 0rem;
 				}
 
@@ -3819,6 +3819,10 @@ input, select, textarea {
 						font-size: 2rem;
 						line-height: 1.2;
 						margin: 0 0 1.5rem 0;
+					}
+
+					#main > .post header.major > p {
+						font-size: 1rem;
 					}
 
 			}
