@@ -3793,7 +3793,10 @@ input, select, textarea {
 			}
 
 			#main > .post header.major > p {
-				font-size: 0.85rem;
+				font-style: normal;
+				font-size: 0.8rem;
+				line-height: 2.6;
+				text-align: justify;
 			}
 
 			#main > .post.featured {
@@ -3826,7 +3829,9 @@ input, select, textarea {
 					}
 
 					#main > .post header.major > p {
-						font-size: 0.7rem;
+						font-style: normal;
+						font-size: 0.75rem;
+						line-height: 2;
 					}
 
 			}
@@ -3877,6 +3882,13 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			#main > .posts > article > p {
+				font-style: normal;
+				font-size: 0.8rem;
+				line-height: 2.3;
+				text-align: justify;
+			}
+
 				#main > .posts > article > :last-child {
 					margin-bottom: 0;
 				}
@@ -3911,6 +3923,12 @@ input, select, textarea {
 				#main > .posts > * {
 					padding: 2rem;
 					width: 100%;
+				}
+
+				#main > .posts > article > p {
+					font-size: 0.75rem;
+					line-height: 2.5;
+					text-align: justify;
 				}
 
 				#main > .posts > article:nth-child(2n - 1) {
