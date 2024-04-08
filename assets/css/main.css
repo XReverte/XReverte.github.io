@@ -3745,13 +3745,13 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
-/* Main		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 980px) {
 
 			#nav {
 				display: none;
 			}
 
-		}*/
+		}
 
 /* Main */
 
