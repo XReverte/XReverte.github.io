@@ -3799,6 +3799,13 @@ input, select, textarea {
 				text-align: justify;
 			}
 
+			#main > .post > p {
+				font-style: normal;
+				font-size: 0.85rem;
+				line-height: 2.6;
+				text-align: justify;
+			}
+
 			#main > .post.featured {
 				text-align: center;
 			}
@@ -3816,6 +3823,13 @@ input, select, textarea {
 				#main > .post {
 					padding: 4rem 2rem 2rem 2rem ;
 				}
+
+					#main > .post > p {
+						font-style: normal;
+						font-size: 0.8rem;
+						line-height: 2.5;
+						text-align: justify;
+					}
 
 					#main > .post header.major > .date {
 						margin-top: -1rem;
