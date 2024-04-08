@@ -4241,7 +4241,7 @@ input, select, textarea {
 					-webkit-align-items: center;
 					-ms-align-items: center;
 					align-items: center;
-					padding: 3.15rem 4rem;
+					padding: 2rem 6rem;
 				}
 
 					#footer > section.split.contact > section > * {
@@ -4257,7 +4257,7 @@ input, select, textarea {
 						-webkit-flex-grow: 0;
 						-ms-flex-grow: 0;
 						flex-grow: 0;
-						width: 6rem;
+						width: 8rem;
 					}
 
 					#footer > section.split.contact > section > :last-child {
@@ -4272,11 +4272,11 @@ input, select, textarea {
 					}
 
 					#footer > section.split.contact > section:first-child {
-						padding: 4rem 4rem 3rem 4rem;
+						padding: 2rem 4rem 2rem 6rem;
 					}
 
 					#footer > section.split.contact > section:last-child {
-						padding: 3rem 4rem 4rem 4rem;
+						padding: 2rem 4rem 2rem 6rem;
 					}
 
 					#footer > section.split.contact > section.alt {
