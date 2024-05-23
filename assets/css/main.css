@@ -3779,7 +3779,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 4.5rem 8rem 3rem 8rem ;
 		}
 
 			#main > .post header.major {
@@ -3812,6 +3812,8 @@ input, select, textarea {
 
 			#main > .post.featured {
 				text-align: center;
+				padding-bottom: 0.75rem; /* Adjust this value to reduce the bottom space */
+				margin-bottom: 0.75rem;  /* Adjust this value to reduce the bottom space */
 			}
 
 			@media screen and (max-width: 1280px) {
@@ -3888,7 +3890,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 2.5rem 3.5rem 1.5rem 3.5rem;
 				width: 50%;
 			}
 
